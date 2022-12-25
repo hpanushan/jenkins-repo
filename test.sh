@@ -1,1 +1,1 @@
-echo "This is a test message 1"
+echo "This is a test message 2"
